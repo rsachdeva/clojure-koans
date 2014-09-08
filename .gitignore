@@ -8,4 +8,9 @@ target
 .lein-deps-sum
 .lein-plugins
 .lein-repl-history
+*.iml
+.lein-env
+.nrepl-port
+logs/
+typescript
 
